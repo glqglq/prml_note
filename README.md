@@ -22,7 +22,9 @@
 
 # Part3 常用模型
 
-## 1.判别函数DiscriminantFunction
+## 1.监督学习SupervisedLearning
+
+### 1.1.判别函数DiscriminantFunction
 
 - 总概
 - 线性判别函数
@@ -34,23 +36,23 @@
   - 广义线性判别
   - 分段线性判别
 
-## 2.贝叶斯分类NaiveBayes
+### 1.2.贝叶斯分类NaiveBayes
 
-## 3.支持向量机SVM
+### 1.3.支持向量机SVM
 
-## 4.决策树DecisionTree
+### 1.4.决策树DecisionTree
 
-## 5.逻辑斯蒂回归LogisticRegression
+### 1.5.逻辑斯蒂回归LogisticRegression
 
-## 6.高斯判别模型GaussDiscriminantModel
+### 1.6.高斯判别模型GaussDiscriminantModel
 
-## 7.神经网络NeuralNetwork
+### 1.7.神经网络NeuralNetwork
 
-## 8.k近邻kNN
+### 1.8.k近邻kNN
 
-## 9.最大熵模型MaximumEntropyModel
+### 1.9.最大熵模型MaximumEntropyModel
 
-## 10.概率图模型ProbabilityGrapyModel
+### 1.10.概率图模型ProbabilityGrapyModel
 
 - 总概
 - 有向图模型
@@ -59,15 +61,17 @@
 - 无向图模型
   - 条件随机场模型CRF
 
-## 11.线性回归LinearRegression
+### 1.11.线性回归LinearRegression
 
-## 12.半监督学习SemiSupervisedLearning
+## 2.半监督学习SemiSupervisedLearning
 
-## 13.无监督学习—聚类Clustering
+## 2.无监督学习UnsupervisedLearning
 
-## 12.无监督学习—维归约DimensionReduction
+### 2.1聚类Clustering
 
-## 13.集成学习EnsembleLearning
+### 2.2 维归约DimensionReduction
+
+## 3.集成学习EnsembleLearning
 
 
 
